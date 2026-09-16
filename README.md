@@ -2,7 +2,7 @@
 
 Executive Director, AI Innovation Lab at [2X](https://2x.marketing). Raleigh, North Carolina.
 
-Twenty years in technology, B2B marketing and revenue operations. The last several years have gone into moving AI work from demonstration to deployment — leading 2X's AI practice and its P&L, with oversight spanning agent strategy and operations. Claude says I have been successful navigating domains in my career- from Marketing/GTM -> Technology & Operations -> Client side and Professional Services -> Applied AI
+Twenty years in technology, B2B marketing and revenue operations. The last several years have gone into moving AI work from demonstration to deployment — leading 2X's AI practice and its P&L, with oversight spanning agent strategy and operations. Twenty years in technology, B2B marketing, and operations across marketing and GTM, then technology and operations, then professional services, and now applied AI.
 
 These repositories are working notes on what I have experimented with as part of structured hypotheses, organized by function.
 
