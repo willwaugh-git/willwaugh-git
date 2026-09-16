@@ -8,9 +8,9 @@ These repositories are working notes on what I have experimented with as part of
 
 ## Why by function
 
-The forward-deployed engineer model — someone embedded in a customer's environment, building against their actual constraints rather than a modern AI architecture — is not going to stay in engineering. The same role is forming in marketing, sales, finance, operations, product and HR.
+The forward-deployed engineer model — someone embedded in a customer's environment, building against their actual constraints— is not going to stay in engineering. The same role is forming in marketing, sales, finance, operations, product and HR.
 
-The distance between what a model does in a demonstration and what it does inside a working process is not closed by a better model. It is closed by someone who knows the function well enough to specify its failure modes in advance. These specialized FDEs or SMEs or AI consultants, will build the next trillion dollar business.
+The distance between what a model does in a demonstration and what it does inside a working process is not closed by a better model. It is closed by someone who knows the function well enough to specify its failure modes in advance. These specialized FDEs or SMEs or AI consultants will build the next trillion-dollar business.
 
 Those failure modes are domain-specific, and they diverge more than the shared underlying model suggests. A misfired personalized outreach loses a deal. A misclassified journal entry costs a restatement. Same capability, materially different system around it — different gates, different requirements, different definition of an acceptable error. 
 
@@ -41,4 +41,4 @@ Professional services, SMB, medtech, healthtech, financial services, B2B SaaS, a
 
 ## Contact
 
-[willwaugh@gmail.com](mailto:willwaugh@gmail.com) · [linkedin.com/in/willwaugh](https://linkedin.com/in/willwaugh)
+[will.waugh@2x.marketing](mailto:will.waugh@2x.marketing) · [linkedin.com/in/willwaugh](https://linkedin.com/in/willwaugh)
